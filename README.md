@@ -1,4 +1,4 @@
-# Assembling a Custom PC
+# Custom Built PC
 
 ![Microsoft Defender](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/74f33728-b83a-4231-87ae-ff06af72fa82)
 
@@ -7,7 +7,7 @@
 
 In this project, I configured and updated Windows Security Virus & Threat Protection. Leveraging Windows Security's definitions, I ensured that the virtual machine was fortified against known threats by updating threat definitions. This proactive approach effectively thwarted potential vulnerabilities, thereby mitigating the risk of exploitation by threat actors. Furthermore, I conducted an Antivirus Quick Scan on the virtual machine, diligently monitoring for any signs of malware infiltration.
 
-## Installing PC Components
+## Assembling PC Components
 
 ![PC Parts](https://github.com/portfolioAustinT/CustomBuiltPC/assets/147944956/6ed4abe0-c5e4-4ce7-82c3-7ef75feda66b)
 ![PC Parts 2](https://github.com/portfolioAustinT/CustomBuiltPC/assets/147944956/bbd6a20b-0558-4d23-a8aa-dce191a6627f)
