@@ -1,6 +1,6 @@
 # Custom Built PC [Work in Progress]
 
-![Microsoft Defender](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/74f33728-b83a-4231-87ae-ff06af72fa82)
+![Custom PC](https://github.com/portfolioAustinT/CustomBuiltPC/assets/147944956/257ceb38-7d3a-451c-a52f-dbc2cc5844e9)
 
 
 ## Introduction
