@@ -10,11 +10,11 @@ In this project, I've embarked on the journey of building a custom PC. With each
 ## Assembling PC Components
 ![PC Parts](https://github.com/portfolioAustinT/CustomBuiltPC/assets/147944956/6ed4abe0-c5e4-4ce7-82c3-7ef75feda66b)
 
-Hardware: Installation of AMD Ryzen 7 7800X3D CPU and SAMSUNG 980 PRO SSD 2TB, PCIe 4.0 M.2 on MSI MPG B650 EDGE WIFI AM5 AMD B650 SATA 6Gb/s DDR5 Ryzen 7000 ATX Motherboard.
+Hardware Shown Above: Installation of AMD Ryzen 7 7800X3D CPU and SAMSUNG 980 PRO SSD 2TB, PCIe 4.0 M.2 on MSI MPG B650 EDGE WIFI AM5 AMD B650 SATA 6Gb/s DDR5 Ryzen 7000 ATX Motherboard.
 
 ![PC Parts 2](https://github.com/portfolioAustinT/CustomBuiltPC/assets/147944956/bbd6a20b-0558-4d23-a8aa-dce191a6627f)
 
-Hardware: Installation of 288-Pin PC RAM DDR5 6400 and 120mm Dual-sided RGB Fans with preview of Mid-Tower Chassis. 
+Hardware Shown Above: Installation of 288-Pin PC RAM DDR5 6400 and 120mm Dual-sided RGB Fans with preview of Mid-Tower Chassis. 
 
 ## Conclusion
 
